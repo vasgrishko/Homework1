@@ -21,6 +21,17 @@ result = n + a + b
 
 print(f'Сумма цифр числа равняется {result}')
 
+# Усложнение (*)
+
+# n = int(input('Введите число'))
+# sumdigits = 0
+
+# while n > 0:
+#     digit = n % 10
+#     sumdigits = sumdigits + digit
+#     n = n // 10
+
+# print(f'Сумма цифр числа равняется {sumdigits}')
 
 
 
